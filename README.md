@@ -47,3 +47,4 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 - CONNECTING IMAGES AND NATURAL LANGUAGE ADISSERTATION(Andrej Karpathy)
 - Sequence Level Training with Recurrent Neural Networks(ICML2015)
+-Sequence-to-Sequence Learning as Beam-Search Optimization
