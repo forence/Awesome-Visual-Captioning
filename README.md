@@ -2,7 +2,7 @@
 
 This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
-![recent_read](paper_thinking.png)
+![recent_read](ccpng)
 
 # Paper Thinking
 
@@ -49,3 +49,4 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 - CONNECTING IMAGES AND NATURAL LANGUAGE ADISSERTATION(Andrej Karpathy)
 - Sequence Level Training with Recurrent Neural Networks(ICML2015)
 - Deep Feature Flow for Video Recognition(CVPR2017, video object detection, [code.mxnet](https://github.com/msracver/Deep-Feature-Flow), [FlowNet2.pytorch](https://github.com/NVIDIA/flownet2-pytorch))
+- Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning(ACL2018, New dataset but not release)
