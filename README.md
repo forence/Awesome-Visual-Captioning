@@ -31,7 +31,7 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 ## Arxiv Update
 
 - Viewpoint Invariant Change Captioning
-- Not All Words are Equal : Video-specific Information Loss for Video Captioning
+- Not All Words are Equal : Video-specific Information Loss for Video Captioning(Jiarong Dong)
 - Hierarchical LSTMs with Adaptive Attention for Visual Captioning
 
 ## NLP
@@ -48,3 +48,4 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 - CONNECTING IMAGES AND NATURAL LANGUAGE ADISSERTATION(Andrej Karpathy)
 - Sequence Level Training with Recurrent Neural Networks(ICML2015)
+- Deep Feature Flow for Video Recognition(CVPR2017, video object detection)
