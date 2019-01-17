@@ -36,7 +36,7 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 ## NLP
 
-- Attention is all you need
+- Attention is all you need([The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/), [Transformer on ImgCaption](https://github.com/ruotianluo/Transformer_Captioning/blob/master/train.py))
 
 ## Video Caption
 
