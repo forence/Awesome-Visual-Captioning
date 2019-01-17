@@ -2,7 +2,7 @@
 
 This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
-![recent_read](ccpng)
+![recent_read](./paper_thinking.png)
 
 # Paper Thinking
 
