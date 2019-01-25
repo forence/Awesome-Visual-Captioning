@@ -22,6 +22,7 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 ### Evaluation
 
+- Improving Image Captioning with Conditional Generative Adversarial Nets.(AAAI2019, [paper](https://arxiv.org/pdf/1805.07112.pdf))
 - NNEval : Neural Network based Evaluation Metric for Image Captioning.(ECCV2018)
 - Improved Image Captioning via Policy Gradient optimization of SPIDEr.(ICCV2017)
 
