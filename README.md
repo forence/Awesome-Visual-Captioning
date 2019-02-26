@@ -8,13 +8,14 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 ### Model
 
+- Rethinking the Form of Latent States in Image Captioning. (ConvLSTM, **DaiBo**, ECCV2018)
 - Discriminability objective for training descriptive captions.(retrival+caption, **RuoTian Luo**, CVPR2018)
-- Exploring Visual Relationship for Image Captioning.(ECCV2018)
+- Exploring Visual Relationship for Image Captioning.(Detection + GCN, **Ting Yao**, ECCV2018)
 - Show, Tell and Discriminate: Image Captioning by Self-retrieval with Partially Labeled Data.(ECCV2018)
 - “Factual” or “emotional”: Stylized image captioning with adaptive learning and attention.(ECCV2018)
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering.(**Peter Anderson**, CVPR2018)
-- Neural Baby Talk.(CVPR2018)
-- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.(CVPR2017)
+- Neural Baby Talk.(*Pointer Network*, **Jiasen Lu**, CVPR2018)
+- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.(**Jiasen Lu**, CVPR2017)
 - Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.(ICML2015)
 
 ### Training Strategy
@@ -51,6 +52,8 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 ## New Idea
 
+- Pointer Network. 
+- VideoLSTM Convolves, Attends and Flows for Action Recognition. (ConvLSTM, [paper](http://export.arxiv.org/pdf/1607.01794))
 - Detecting and Recognizing Human-Object Interactions(**Ross Girshick**, **Piotr Dollar**, **Kaiming He**, [paper](https://arxiv.org/pdf/1704.07333.pdf))
 - CONNECTING IMAGES AND NATURAL LANGUAGE ADISSERTATION(**Andrej Karpathy**)
 - Sequence Level Training with Recurrent Neural Networks(ICML2015)
