@@ -8,6 +8,7 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 ### Model
 
+- Recurrent Fusion Network for Image Captioning.(fusion muti-CNNs' feature as encoder, **Wenhao Jiang**, Tencent AI Lab, ECCV2018)
 - Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space.(**Liwei Wang**, NIPS2017, condition-VAE for caption, [paper](https://arxiv.org/pdf/1711.07068.pdf))
 - Rethinking the Form of Latent States in Image Captioning. (ConvLSTM, **DaiBo**, ECCV2018)
 - Discriminability objective for training descriptive captions.(retrival+caption, **RuoTian Luo**, CVPR2018)
