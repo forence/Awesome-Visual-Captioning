@@ -8,6 +8,7 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 ### Model
 
+- Unsupervised Image Captioning.(**Yang Feng**, Tencent AI Lab, CVPR2019, [[paper]](https://arxiv.org/pdf/1811.10787.pdf), [[code.tf]](https://github.com/fengyang0317/unsupervised_captioning))
 - Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions.(*state-of-the-art*, **Cornia Marcella**, CVPR2019, [[paper]](https://arxiv.org/pdf/1811.10652v2.pdf), [[code.pytorch]](https://github.com/aimagelab/show-control-and-tell))  
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.(visual sentinel + adaptive attention, **Jiasen Lu**, CVPR2017)  
 - Recurrent Fusion Network for Image Captioning.(fusion muti-CNNs' feature as encoder, **Wenhao Jiang**, Tencent AI Lab, ECCV2018)
@@ -66,6 +67,8 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 
 ## Newly update! CVPR2019
 **Image caption**  
+- Unsupervised Image Captioning.
+- Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions.
 **Video caption**  
 - Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning.
 ## Newly update! AAAI2019
