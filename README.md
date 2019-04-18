@@ -66,11 +66,73 @@ This repo focus on Image/Video Caption &amp; Seq-to-Seq Learning &amp; NLP
 - Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning(ACL2018, New dataset but not release)
 
 ## Newly update! CVPR2019
-**Image caption**  
-- Unsupervised Image Captioning.
-- Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions.
-**Video caption**  
-- Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning.
+**Image Captioning**  
+- :XU YANG (Nanyang Technological University)*; Kaihua Tang (Nanyang Technological University); Hanwang Zhang (Nanyang Technological University); Jianfei Cai (Nanyang Technological University)  
+"Auto-Encoding Scene Graphs for Descriptive Image Captioning". `CVPR 2019 Oral`
+
+- :Aditya Deshpande (University of Illinois at UC)*; Jyoti Aneja (University of Illinois, Urbana-Champaign); Liwei Wang (Tencent AI Lab); Alexander Schwing (UIUC); David Forsyth (Univeristy of Illinois at Urbana-Champaign)  
+"[Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech](https://arxiv.org/pdf/1805.12589v2.pdf)". `CVPR 2019 Oral`
+
+- :Yang Feng (University of Rochester)*; Lin Ma (Tencent AI Lab); Wei Liu (Tencent); Jiebo Luo (U. Rochester)  
+"[Unsupervised Image Captioning](https://arxiv.org/pdf/1805.09137.pdf)". `CVPR 2019`
+
+- :Yan Xu (UESTC); Baoyuan Wu (Tencent AI Lab)*; Fumin Shen (UESTC); Yanbo Fan (Tencent AI Lab); Yong Zhang (Tencent AI Lab); Heng Tao Shen (University of Electronic Science and Technology of China (UESTC)); Wei Liu (Tencent)  
+"Adversarial Attack to Image Captioning via Structured Output Learning with Latent Variables". `CVPR 2019` 
+
+- :Qingzhong Wang (Department of Computer Science, City University of Hong Kong)*; Antoni Chan (City University of Hong Kong, Hong, Kong)   "[Describing like Humans: on Diversity in Image Captioning](https://arxiv.org/pdf/1903.12020.pdf)". `CVPR 2019` 
+
+- :Longteng Guo ( Institute of Automation, Chinese Academy of Sciences)*; Jing Liu (National Lab of Pattern Recognition, Institute of Automation,Chinese Academy of Sciences); Peng Yao (University of Science and Technology Beijing); Jiangwei Li (Huawei); Hanqing Lu (NLPR, Institute of Automation, CAS)  
+"MSCap: Multi-Style Image Captioning with Unpaired Stylized Text". `CVPR 2019`
+
+- :Lu Zhang (Dalian University of Technology); Huchuan Lu (Dalian University of Technology)*; Zhe Lin (Adobe Research); Jianming Zhang (Adobe Research); You He (Naval Aviation University)  
+"CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection". `CVPR 2019`
+
+- :Guojun Yin (University of Science and Technology of China); Lu Sheng (The Chinese University of Hong Kong)*; Bin Liu (University of Science and Technology of China); Nenghai Yu (University of Science and Technology of China); Xiaogang Wang (Chinese University of Hong Kong, Hong Kong); Jing Shao (Sensetime)  
+"[Context and Attribute Grounded Dense Captioning](https://arxiv.org/pdf/1904.01410.pdf)". `CVPR 2019`
+
+- :Dong-Jin Kim (KAIST)*; Jinsoo Choi (KAIST); Tae-Hyun Oh (MIT CSAIL); In So Kweon (KAIST)  
+"[Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](https://arxiv.org/pdf/1903.05942.pdf)". `CVPR 2019`
+
+- :Marcella Cornia (University of Modena and Reggio Emilia); Lorenzo Baraldi (University of Modena and Reggio Emilia)*; Rita Cucchiara (Universita Di Modena E Reggio Emilia)  
+"[Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/pdf/1811.10652.pdf)".. `CVPR 2019`
+
+- :Junlong Gao (Peking University Shenzhen Graduate School)*; Shiqi Wang (CityU); Shanshe Wang (Peking University); Siwei Ma (Peking University, China); Wen Gao (PKU)  
+"[Self-critical n-step Training for Image Captioning](https://arxiv.org/pdf/1904.06861.pdf)". `CVPR 2019`
+
+- :Yu Qin (Shanghai Jiao Tong University)*; Jiajun Du (Shanghai Jiao Tong University); Hongtao Lu (Shanghai Jiao Tong University); Yonghua Zhang (Bytedance)  
+"Look Back and Predict Forward in Image Captioning". `CVPR 2019`
+
+- :Yue Zheng (Tsinghua University); Ya-Li Li (THU); Shengjin Wang (Tsinghua University)*  
+"[Intention Oriented Image Captions with Guiding Objects](https://arxiv.org/pdf/1811.07662.pdf)". `CVPR 2019`
+
+- :Pierre Dognin (IBM)*; Igor Melnyk (IBM); Youssef Mroueh (IBM Research); Jarret Ross (IBM); Tom Sercu (IBM Research AI)  
+"[Adversarial Semantic Alignment for Improved Image Captions](https://arxiv.org/pdf/1805.00063.pdf)". `CVPR 2019`
+
+- :Ali Furkan Biten (Computer Vision Center)*; Lluis Gomez (Universitat Autónoma de Barcelona); Marçal Rusiñol (Computer Vision Center, UAB); Dimosthenis Karatzas (Computer Vision Centre)  
+"[Good News, Everyone! Context driven entity-aware captioning for news images](https://arxiv.org/pdf/1904.01475.pdf)". `CVPR 2019`
+
+- :Yehao Li (Sun Yat-Sen University); Ting Yao (JD AI Research); Yingwei Pan (JD AI Research)*; Hongyang Chao (Sun Yat-sen University); Tao Mei (AI Research of JD.com)  
+"Pointing Novel Objects in Image Captioning". `CVPR 2019`
+
+- :Kurt Shuster (Facebook)*; Samuel Humeau (Facebook); Hexiang Hu (USC); Antoine Bordes (Facebook); Jason Weston (FAIR)  
+"[Engaging Image Captioning via Personality](https://arxiv.org/pdf/1810.10665.pdf)". `CVPR 2019`
+
+**Video Captioning**
+- :Jonghwan Mun (POSTECH)*; Linjie Yang (ByteDance AI Lab); Zhou Ren (Snap Inc.); Ning Xu (Snap); Bohyung Han (Seoul National University)  
+"[Streamlined Dense Video Captioning](https://arxiv.org/pdf/1904.03870.pdf)". `CVPR 2019 Oral`
+
+- :Dahun Kim (KAIST)*; Sanghyun Woo (KAIST); Joon-Young Lee (Adobe Research); In So Kweon (KAIST)  
+"Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence". `CVPR 2019`
+
+- :Junchao Zhang (Peking University); Yuxin Peng (Peking University)*  
+"Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning". `CVPR 2019`
+
+- :Wenjie Pei (Tencent)*; Jiyuan Zhang (Tencent YouTu); Xiangrong Wang (Delft University of Technology); Lei Ke (Tencent); Xiaoyong Shen (Tencent); Yu-Wing Tai (Tencent)  
+"Memory-Attended Recurrent Network for Video Captioning". `CVPR 2019`
+
+- :Nayyer Aafaq (The University of Western Australia)*; Naveed Akhtar (The University of Western Australia); Wei Liu (University of Western Australia); Syed Zulqarnain Gilani (The University of Western Australia); Ajmal Mian (University of Western Australia)  
+"[Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](https://arxiv.org/pdf/1902.10322v1.pdf)". `CVPR 2019`
+
 ## Newly update! AAAI2019
 **Image caption**  
 - 4938: Meta Learning for Image Captioning  
