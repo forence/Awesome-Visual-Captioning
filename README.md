@@ -11,7 +11,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 ## Newly update! CVPR-2019
 **Image Captioning**  
 - :XU YANG (Nanyang Technological University)*; Kaihua Tang (Nanyang Technological University); Hanwang Zhang (Nanyang Technological University); Jianfei Cai (Nanyang Technological University)  
-"Auto-Encoding Scene Graphs for Descriptive Image Captioning". `CVPR 2019 Oral`
+"[Auto-Encoding Scene Graphs for Descriptive Image Captioning](https://arxiv.org/abs/1812.02378)". `CVPR 2019 Oral` [[code]](https://github.com/fengyang0317/unsupervised_captioning)
 
 - :Aditya Deshpande (University of Illinois at UC)*; Jyoti Aneja (University of Illinois, Urbana-Champaign); Liwei Wang (Tencent AI Lab); Alexander Schwing (UIUC); David Forsyth (Univeristy of Illinois at Urbana-Champaign)  
 "[Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech](https://arxiv.org/pdf/1805.12589v2.pdf)". `CVPR 2019 Oral`
@@ -29,7 +29,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "MSCap: Multi-Style Image Captioning with Unpaired Stylized Text". `CVPR 2019`
 
 - :Lu Zhang (Dalian University of Technology); Huchuan Lu (Dalian University of Technology)*; Zhe Lin (Adobe Research); Jianming Zhang (Adobe Research); You He (Naval Aviation University)  
-"CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection". `CVPR 2019`
+"[CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection](https://pan.baidu.com/s/1hS38zj_xK9f9KBtY_hkWzQ)". `CVPR 2019` [[code]](https://github.com/zhangludl/code-and-dataset-for-CapSal)
 
 - :Guojun Yin (University of Science and Technology of China); Lu Sheng (The Chinese University of Hong Kong)*; Bin Liu (University of Science and Technology of China); Nenghai Yu (University of Science and Technology of China); Xiaogang Wang (Chinese University of Hong Kong, Hong Kong); Jing Shao (Sensetime)  
 "[Context and Attribute Grounded Dense Captioning](https://arxiv.org/pdf/1904.01410.pdf)". `CVPR 2019`
@@ -56,7 +56,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "[Good News, Everyone! Context driven entity-aware captioning for news images](https://arxiv.org/pdf/1904.01475.pdf)". `CVPR 2019`
 
 - :Yehao Li (Sun Yat-Sen University); Ting Yao (JD AI Research); Yingwei Pan (JD AI Research)*; Hongyang Chao (Sun Yat-sen University); Tao Mei (AI Research of JD.com)  
-"Pointing Novel Objects in Image Captioning". `CVPR 2019`
+"[Pointing Novel Objects in Image Captioning](https://arxiv.org/pdf/1904.11251.pdf)". `CVPR 2019`
 
 - :Kurt Shuster (Facebook)*; Samuel Humeau (Facebook); Hexiang Hu (USC); Antoine Bordes (Facebook); Jason Weston (FAIR)  
 "[Engaging Image Captioning via Personality](https://arxiv.org/pdf/1810.10665.pdf)". `CVPR 2019`
@@ -66,7 +66,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "[Streamlined Dense Video Captioning](https://arxiv.org/pdf/1904.03870.pdf)". `CVPR 2019 Oral`
 
 - :Dahun Kim (KAIST)*; Sanghyun Woo (KAIST); Joon-Young Lee (Adobe Research); In So Kweon (KAIST)  
-"Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence". `CVPR 2019`
+"[Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](https://arxiv.org/pdf/1905.02949v1.pdf)". `CVPR 2019`
 
 - :Junchao Zhang (Peking University); Yuxin Peng (Peking University)*  
 "Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning". `CVPR 2019`
@@ -78,7 +78,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "[Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](https://arxiv.org/pdf/1902.10322v1.pdf)". `CVPR 2019`
 
 - :Luowei Zhou (University of Michigan)*; Yannis Kalantidis (Facebook Research); Xinlei Chen (Facebook AI Research); Jason J Corso (University of Michigan); Marcus Rohrbach (Facebook AI Research)  
-	"[Grounded Video Description](https://arxiv.org/pdf/1812.06587)". `CVPR 2019`
+"[Grounded Video Description](https://arxiv.org/pdf/1812.06587)". `CVPR 2019`
   
 - :Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	
 "[Adversarial Inference for Multi-Sentence Video Description](https://arxiv.org/pdf/1812.05634.pdf)". `CVPR 2019`
@@ -95,7 +95,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "Meta Learning for Image Captioning". `AAAI 2019`
 
 - 5390:Lianli Gao (The University of Electronic Science and Technology of China); kaixuan fan (University of Electronic Science and Technology of China); Jingkuan Song (UESTC); Xianglong Liu (Beihang University); Xing Xu (University of Electronic Science and Technology of China); Heng Tao Shen (University of Electronic Science and Technology of China (UESTC))*  
-"Deliberate Residual based Attention Network for Image Captioning". `AAAI 2019`
+"[Deliberate Residual based Attention Network for Image Captioning](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoLianli3.5390.pdf)". `AAAI 2019`
 
 - 1410:Weixuan Wang (School of Electronic and Information Engineering, Sun Yat-sen University); Zhihong Chen (School of Electronic and Information Engineering, Sun Yat-sen University); Haifeng Hu (School of Electronic and Information Engineering, Sun Yat-sen University)* 
 "Hierarchical Attention Network for Image Captioning". `AAAI 2019`
