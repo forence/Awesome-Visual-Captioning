@@ -11,77 +11,78 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 ## Newly update! CVPR-2019
 **Image Captioning**  
 - :XU YANG (Nanyang Technological University)*; Kaihua Tang (Nanyang Technological University); Hanwang Zhang (Nanyang Technological University); Jianfei Cai (Nanyang Technological University)  
-"[Auto-Encoding Scene Graphs for Descriptive Image Captioning](https://arxiv.org/abs/1812.02378)". `CVPR 2019 Oral` [[code]](https://github.com/fengyang0317/unsupervised_captioning)
+"[Auto-Encoding Scene Graphs for Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Auto-Encoding_Scene_Graphs_for_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019 Oral` [[code]](https://github.com/fengyang0317/unsupervised_captioning)
 
 - :Aditya Deshpande (University of Illinois at UC)*; Jyoti Aneja (University of Illinois, Urbana-Champaign); Liwei Wang (Tencent AI Lab); Alexander Schwing (UIUC); David Forsyth (Univeristy of Illinois at Urbana-Champaign)  
-"[Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech](https://arxiv.org/pdf/1805.12589v2.pdf)". `CVPR 2019 Oral`
+"[Fast, Diverse and Accurate Image Captioning Guided by Part-Of-Speech](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Fast_Diverse_and_Accurate_Image_Captioning_Guided_by_Part-Of-Speech_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
 
 - :Yang Feng (University of Rochester)*; Lin Ma (Tencent AI Lab); Wei Liu (Tencent); Jiebo Luo (U. Rochester)  
-"[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)". `CVPR 2019`
+"[Unsupervised Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Unsupervised_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Yan Xu (UESTC); Baoyuan Wu (Tencent AI Lab)*; Fumin Shen (UESTC); Yanbo Fan (Tencent AI Lab); Yong Zhang (Tencent AI Lab); Heng Tao Shen (University of Electronic Science and Technology of China (UESTC)); Wei Liu (Tencent)  
-"Adversarial Attack to Image Captioning via Structured Output Learning with Latent Variables". `CVPR 2019` 
+"[Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf)". `CVPR 2019` 
 
 - :Qingzhong Wang (Department of Computer Science, City University of Hong Kong)*; Antoni Chan (City University of Hong Kong, Hong, Kong)  
-"[Describing like Humans: on Diversity in Image Captioning](https://arxiv.org/pdf/1903.12020.pdf)". `CVPR 2019` 
+"[Describing like Humans: On Diversity in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019` 
 
 - :Longteng Guo ( Institute of Automation, Chinese Academy of Sciences)*; Jing Liu (National Lab of Pattern Recognition, Institute of Automation,Chinese Academy of Sciences); Peng Yao (University of Science and Technology Beijing); Jiangwei Li (Huawei); Hanqing Lu (NLPR, Institute of Automation, CAS)  
-"MSCap: Multi-Style Image Captioning with Unpaired Stylized Text". `CVPR 2019`
+"[MSCap: Multi-Style Image Captioning With Unpaired Stylized Text](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_MSCap_Multi-Style_Image_Captioning_With_Unpaired_Stylized_Text_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Lu Zhang (Dalian University of Technology); Huchuan Lu (Dalian University of Technology)*; Zhe Lin (Adobe Research); Jianming Zhang (Adobe Research); You He (Naval Aviation University)  
-"[CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection](https://pan.baidu.com/s/1hS38zj_xK9f9KBtY_hkWzQ)". `CVPR 2019` [[code]](https://github.com/zhangludl/code-and-dataset-for-CapSal)
+"[CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CapSal_Leveraging_Captioning_to_Boost_Semantics_for_Salient_Object_Detection_CVPR_2019_paper.pdf)". `CVPR 2019` [[code]](https://github.com/zhangludl/code-and-dataset-for-CapSal)
 
 - :Guojun Yin (University of Science and Technology of China); Lu Sheng (The Chinese University of Hong Kong)*; Bin Liu (University of Science and Technology of China); Nenghai Yu (University of Science and Technology of China); Xiaogang Wang (Chinese University of Hong Kong, Hong Kong); Jing Shao (Sensetime)  
-"[Context and Attribute Grounded Dense Captioning](https://arxiv.org/pdf/1904.01410.pdf)". `CVPR 2019`
+"[Context and Attribute Grounded Dense Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Context_and_Attribute_Grounded_Dense_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Dong-Jin Kim (KAIST)*; Jinsoo Choi (KAIST); Tae-Hyun Oh (MIT CSAIL); In So Kweon (KAIST)  
-"[Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](https://arxiv.org/pdf/1903.05942.pdf)". `CVPR 2019`
+"[Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Dense_Relational_Captioning_Triple-Stream_Networks_for_Relationship-Based_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Marcella Cornia (University of Modena and Reggio Emilia); Lorenzo Baraldi (University of Modena and Reggio Emilia)*; Rita Cucchiara (Universita Di Modena E Reggio Emilia)  
-"[Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/pdf/1811.10652.pdf)".. `CVPR 2019`
+"[Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cornia_Show_Control_and_Tell_A_Framework_for_Generating_Controllable_and_CVPR_2019_paper.pdf)".. `CVPR 2019`
 
 - :Junlong Gao (Peking University Shenzhen Graduate School)*; Shiqi Wang (CityU); Shanshe Wang (Peking University); Siwei Ma (Peking University, China); Wen Gao (PKU)  
-"[Self-critical n-step Training for Image Captioning](https://arxiv.org/pdf/1904.06861.pdf)". `CVPR 2019`
+"[Self-Critical N-step Training for Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Self-Critical_N-Step_Training_for_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Yu Qin (Shanghai Jiao Tong University)*; Jiajun Du (Shanghai Jiao Tong University); Hongtao Lu (Shanghai Jiao Tong University); Yonghua Zhang (Bytedance)  
-"Look Back and Predict Forward in Image Captioning". `CVPR 2019`
+"[Look Back and Predict Forward in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_Look_Back_and_Predict_Forward_in_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Yue Zheng (Tsinghua University); Ya-Li Li (THU); Shengjin Wang (Tsinghua University)*  
-"[Intention Oriented Image Captions with Guiding Objects](https://arxiv.org/pdf/1811.07662.pdf)". `CVPR 2019`
+"[Intention Oriented Image Captions with Guiding Objects](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Intention_Oriented_Image_Captions_With_Guiding_Objects_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Pierre Dognin (IBM)*; Igor Melnyk (IBM); Youssef Mroueh (IBM Research); Jarret Ross (IBM); Tom Sercu (IBM Research AI)  
-"[Adversarial Semantic Alignment for Improved Image Captions](https://arxiv.org/pdf/1805.00063.pdf)". `CVPR 2019`
+"[Adversarial Semantic Alignment for Improved Image Captions](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dognin_Adversarial_Semantic_Alignment_for_Improved_Image_Captions_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Ali Furkan Biten (Computer Vision Center)*; Lluis Gomez (Universitat Autónoma de Barcelona); Marçal Rusiñol (Computer Vision Center, UAB); Dimosthenis Karatzas (Computer Vision Centre)  
-"[Good News, Everyone! Context driven entity-aware captioning for news images](https://arxiv.org/pdf/1904.01475.pdf)". `CVPR 2019`
+"[Good News, Everyone! Context driven entity-aware captioning for news images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Biten_Good_News_Everyone_Context_Driven_Entity-Aware_Captioning_for_News_Images_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Yehao Li (Sun Yat-Sen University); Ting Yao (JD AI Research); Yingwei Pan (JD AI Research)*; Hongyang Chao (Sun Yat-sen University); Tao Mei (AI Research of JD.com)  
-"[Pointing Novel Objects in Image Captioning](https://arxiv.org/pdf/1904.11251.pdf)". `CVPR 2019`
+"[Pointing Novel Objects in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Pointing_Novel_Objects_in_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Kurt Shuster (Facebook)*; Samuel Humeau (Facebook); Hexiang Hu (USC); Antoine Bordes (Facebook); Jason Weston (FAIR)  
-"[Engaging Image Captioning via Personality](https://arxiv.org/pdf/1810.10665.pdf)". `CVPR 2019`
+"[Engaging Image Captioning via Personality](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shuster_Engaging_Image_Captioning_via_Personality_CVPR_2019_paper.pdf)". `CVPR 2019`
+-:
 
 **Video Captioning**
 - :Jonghwan Mun (POSTECH)*; Linjie Yang (ByteDance AI Lab); Zhou Ren (Snap Inc.); Ning Xu (Snap); Bohyung Han (Seoul National University)  
-"[Streamlined Dense Video Captioning](https://arxiv.org/pdf/1904.03870.pdf)". `CVPR 2019 Oral`
+"[Streamlined Dense Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mun_Streamlined_Dense_Video_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
 
 - :Dahun Kim (KAIST)*; Sanghyun Woo (KAIST); Joon-Young Lee (Adobe Research); In So Kweon (KAIST)  
-"[Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](https://arxiv.org/pdf/1905.02949v1.pdf)". `CVPR 2019`
+"[Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Junchao Zhang (Peking University); Yuxin Peng (Peking University)*  
-"Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning". `CVPR 2019`
+"[Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Object-Aware_Aggregation_With_Bidirectional_Temporal_Graph_for_Video_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Wenjie Pei (Tencent)*; Jiyuan Zhang (Tencent YouTu); Xiangrong Wang (Delft University of Technology); Lei Ke (Tencent); Xiaoyong Shen (Tencent); Yu-Wing Tai (Tencent)  
-"Memory-Attended Recurrent Network for Video Captioning". `CVPR 2019`
+"[Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Nayyer Aafaq (The University of Western Australia)*; Naveed Akhtar (The University of Western Australia); Wei Liu (University of Western Australia); Syed Zulqarnain Gilani (The University of Western Australia); Ajmal Mian (University of Western Australia)  
-"[Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](https://arxiv.org/pdf/1902.10322v1.pdf)". `CVPR 2019`
+"[Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aafaq_Spatio-Temporal_Dynamics_and_Semantic_Attribute_Enriched_Visual_Encoding_for_Video_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Luowei Zhou (University of Michigan)*; Yannis Kalantidis (Facebook Research); Xinlei Chen (Facebook AI Research); Jason J Corso (University of Michigan); Marcus Rohrbach (Facebook AI Research)  
-"[Grounded Video Description](https://arxiv.org/pdf/1812.06587)". `CVPR 2019`
+"[Grounded Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019`
   
-- :Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	
-"[Adversarial Inference for Multi-Sentence Video Description](https://arxiv.org/pdf/1812.05634.pdf)". `CVPR 2019`
+- :Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	  
+"[Adversarial Inference for Multi-Sentence Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 ## Newly update! AAAI-2019
 **Image Captioning**  
