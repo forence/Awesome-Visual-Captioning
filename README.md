@@ -60,7 +60,10 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 
 - :Kurt Shuster (Facebook)*; Samuel Humeau (Facebook); Hexiang Hu (USC); Antoine Bordes (Facebook); Jason Weston (FAIR)  
 "[Engaging Image Captioning via Personality](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shuster_Engaging_Image_Captioning_via_Personality_CVPR_2019_paper.pdf)". `CVPR 2019`
--:
+- :Yue Zheng, Yali Li, Shengjin Wang   
+"[Intention Oriented Image Captions With Guiding Objects](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Intention_Oriented_Image_Captions_With_Guiding_Objects_CVPR_2019_paper.pdf)". `CVPR 2019`
+- :Yan Xu, Baoyuan Wu, Fumin Shen, Yanbo Fan, Yong Zhang, Heng Tao Shen, Wei Liu    
+"[Exact Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 **Video Captioning**
 - :Jonghwan Mun (POSTECH)*; Linjie Yang (ByteDance AI Lab); Zhou Ren (Snap Inc.); Ning Xu (Snap); Bohyung Han (Seoul National University)  
