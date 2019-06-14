@@ -69,6 +69,12 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 - :Jonghwan Mun (POSTECH)*; Linjie Yang (ByteDance AI Lab); Zhou Ren (Snap Inc.); Ning Xu (Snap); Bohyung Han (Seoul National University)  
 "[Streamlined Dense Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mun_Streamlined_Dense_Video_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
 
+- :Luowei Zhou (University of Michigan)*; Yannis Kalantidis (Facebook Research); Xinlei Chen (Facebook AI Research); Jason J Corso (University of Michigan); Marcus Rohrbach (Facebook AI Research)  
+"[Grounded Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
+  
+- :Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	  
+"[Adversarial Inference for Multi-Sentence Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
+
 - :Dahun Kim (KAIST)*; Sanghyun Woo (KAIST); Joon-Young Lee (Adobe Research); In So Kweon (KAIST)  
 "[Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf)". `CVPR 2019`
 
@@ -80,12 +86,6 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 
 - :Nayyer Aafaq (The University of Western Australia)*; Naveed Akhtar (The University of Western Australia); Wei Liu (University of Western Australia); Syed Zulqarnain Gilani (The University of Western Australia); Ajmal Mian (University of Western Australia)  
 "[Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aafaq_Spatio-Temporal_Dynamics_and_Semantic_Attribute_Enriched_Visual_Encoding_for_Video_CVPR_2019_paper.pdf)". `CVPR 2019`
-
-- :Luowei Zhou (University of Michigan)*; Yannis Kalantidis (Facebook Research); Xinlei Chen (Facebook AI Research); Jason J Corso (University of Michigan); Marcus Rohrbach (Facebook AI Research)  
-"[Grounded Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019`
-  
-- :Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	  
-"[Adversarial Inference for Multi-Sentence Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 ## Newly update! AAAI-2019
 **Image Captioning**  
