@@ -17,7 +17,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "[Fast, Diverse and Accurate Image Captioning Guided by Part-Of-Speech](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Fast_Diverse_and_Accurate_Image_Captioning_Guided_by_Part-Of-Speech_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
 
 - :Yang Feng (University of Rochester)*; Lin Ma (Tencent AI Lab); Wei Liu (Tencent); Jiebo Luo (U. Rochester)  
-"[Unsupervised Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Unsupervised_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
+"[Unsupervised Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Unsupervised_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`[[code]](https://github.com/fengyang0317/unsupervised_captioning)
 
 - :Yan Xu (UESTC); Baoyuan Wu (Tencent AI Lab)*; Fumin Shen (UESTC); Yanbo Fan (Tencent AI Lab); Yong Zhang (Tencent AI Lab); Heng Tao Shen (University of Electronic Science and Technology of China (UESTC)); Wei Liu (Tencent)  
 "[Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf)". `CVPR 2019` 
@@ -53,7 +53,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "[Adversarial Semantic Alignment for Improved Image Captions](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dognin_Adversarial_Semantic_Alignment_for_Improved_Image_Captions_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 - :Ali Furkan Biten (Computer Vision Center)*; Lluis Gomez (Universitat Autónoma de Barcelona); Marçal Rusiñol (Computer Vision Center, UAB); Dimosthenis Karatzas (Computer Vision Centre)  
-"[Good News, Everyone! Context driven entity-aware captioning for news images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Biten_Good_News_Everyone_Context_Driven_Entity-Aware_Captioning_for_News_Images_CVPR_2019_paper.pdf)". `CVPR 2019`
+"[Good News, Everyone! Context driven entity-aware captioning for news images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Biten_Good_News_Everyone_Context_Driven_Entity-Aware_Captioning_for_News_Images_CVPR_2019_paper.pdf)". `CVPR 2019` [[code]](https://github.com/furkanbiten/GoodNews)
 
 - :Yehao Li (Sun Yat-Sen University); Ting Yao (JD AI Research); Yingwei Pan (JD AI Research)*; Hongyang Chao (Sun Yat-sen University); Tao Mei (AI Research of JD.com)  
 "[Pointing Novel Objects in Image Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Pointing_Novel_Objects_in_Image_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
