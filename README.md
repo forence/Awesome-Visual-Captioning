@@ -66,25 +66,22 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "[Exact Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 **Video Captioning**
-- :Jonghwan Mun (POSTECH)*; Linjie Yang (ByteDance AI Lab); Zhou Ren (Snap Inc.); Ning Xu (Snap); Bohyung Han (Seoul National University)  
+- **SDVC**:Jonghwan Mun (POSTECH)*; Linjie Yang (ByteDance AI Lab); Zhou Ren (Snap Inc.); Ning Xu (Snap); Bohyung Han (Seoul National University)  
 "[Streamlined Dense Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mun_Streamlined_Dense_Video_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
 
-- :Luowei Zhou (University of Michigan)*; Yannis Kalantidis (Facebook Research); Xinlei Chen (Facebook AI Research); Jason J Corso (University of Michigan); Marcus Rohrbach (Facebook AI Research)  
+- **GVD**:Luowei Zhou (University of Michigan)*; Yannis Kalantidis (Facebook Research); Xinlei Chen (Facebook AI Research); Jason J Corso (University of Michigan); Marcus Rohrbach (Facebook AI Research)  
 "[Grounded Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
   
-- :Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	  
+- **HybridDis**:Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	  
 "[Adversarial Inference for Multi-Sentence Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)". `CVPR 2019 Oral`
 
-- :Dahun Kim (KAIST)*; Sanghyun Woo (KAIST); Joon-Young Lee (Adobe Research); In So Kweon (KAIST)  
-"[Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf)". `CVPR 2019`
-
-- :Junchao Zhang (Peking University); Yuxin Peng (Peking University)*  
+- **OA-BTG**:Junchao Zhang (Peking University); Yuxin Peng (Peking University)*  
 "[Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Object-Aware_Aggregation_With_Bidirectional_Temporal_Graph_for_Video_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
-- :Wenjie Pei (Tencent)*; Jiyuan Zhang (Tencent YouTu); Xiangrong Wang (Delft University of Technology); Lei Ke (Tencent); Xiaoyong Shen (Tencent); Yu-Wing Tai (Tencent)  
+- **MARN**:Wenjie Pei (Tencent)*; Jiyuan Zhang (Tencent YouTu); Xiangrong Wang (Delft University of Technology); Lei Ke (Tencent); Xiaoyong Shen (Tencent); Yu-Wing Tai (Tencent)  
 "[Memory-Attended Recurrent Network for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pei_Memory-Attended_Recurrent_Network_for_Video_Captioning_CVPR_2019_paper.pdf)". `CVPR 2019`
 
-- :Nayyer Aafaq (The University of Western Australia)*; Naveed Akhtar (The University of Western Australia); Wei Liu (University of Western Australia); Syed Zulqarnain Gilani (The University of Western Australia); Ajmal Mian (University of Western Australia)  
+- **GRU-EVE**:Nayyer Aafaq (The University of Western Australia)*; Naveed Akhtar (The University of Western Australia); Wei Liu (University of Western Australia); Syed Zulqarnain Gilani (The University of Western Australia); Ajmal Mian (University of Western Australia)  
 "[Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Aafaq_Spatio-Temporal_Dynamics_and_Semantic_Attribute_Enriched_Visual_Encoding_for_Video_CVPR_2019_paper.pdf)". `CVPR 2019`
 
 ## Newly update! AAAI-2019
