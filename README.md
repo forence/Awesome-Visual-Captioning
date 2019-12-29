@@ -8,70 +8,82 @@ A curated list of image captioning and video captioning and related area. :-)
 ***
 This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Learning &amp; NLP
 
-## Newly update! ICCV-2019
+## Newly update! NeurIPS-2019
+**Image Captioning**
+- **AAT**: Lun Huang, Wenmin Wang, Yaxian Xia, Jie Chen  
+"[Adaptively Aligned Image Captioning via Adaptive Attention Time](http://papers.nips.cc/paper/by-source-2019-4799)". `NeurIPS 2019` [[code]](https://github.com/husthuaan/AAT)
+
+- **VSSI-cap**: Fuhai Chen, Rongrong Ji, Jiayi Ji, Xiaoshuai Sun, Baochang Zhang, Xuri Ge, Yongjian Wu, Feiyue Huang  
+"[Variational Structured Semantic Inference for Diverse Image Captioning](http://papers.nips.cc/paper/by-source-2019-1113)". `NeurIPS 2019`  
+
+- **ObjRel Transf**: Simao Herdade, Armin Kappeler, Kofi Boakye, Joao Soares  
+"[Image Captioning: Transforming Objects into Words](http://papers.nips.cc/paper/by-source-2019-5963)". `NeurIPS 2019` [[code]](https://github.com/yahoo/object_relation_transformer)  
+
+
+## ICCV-2019
 **Video Captioning**  
-- **VATEX**:Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang  
+- **VATEX**: Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang  
 "[VaTeX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)". `ICCV 2019`   
 
-- **POS+CG**:Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu  
-"[Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)". `ICCV 2019`  
+- **POS+CG**: Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu  
+"[Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Controllable_Video_Captioning_With_POS_Sequence_Guidance_Based_on_Gated_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **POS**:Jingyi Hou, Xinxiao Wu, Wentian Zhao, Jiebo Luo, Yunde Jia  
+- **POS**: Jingyi Hou, Xinxiao Wu, Wentian Zhao, Jiebo Luo, Yunde Jia  
 "[Joint Syntax Representation Learning and Visual Cue Translation for Video Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Joint_Syntax_Representation_Learning_and_Visual_Cue_Translation_for_Video_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
 **Image Captioning**   
-- **MaBi-LSTMs**:Hongwei Ge, Zehang Yan, Kai Zhang, Mingde Zhao, Liang Sun  
+- **MaBi-LSTMs**: Hongwei Ge, Zehang Yan, Kai Zhang, Mingde Zhao, Liang Sun  
 "[Exploring Overall Contextual Information for Image Captioning in Human-Like Cognitive Style](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Exploring_Overall_Contextual_Information_for_Image_Captioning_in_Human-Like_Cognitive_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **Align2Ground**:Samyak Datta, Karan Sikka, Anirban Roy, Karuna Ahuja, Devi Parikh, Ajay Divakaran    
+- **Align2Ground**: Samyak Datta, Karan Sikka, Anirban Roy, Karuna Ahuja, Devi Parikh, Ajay Divakaran    
 "[Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment](http://openaccess.thecvf.com/content_ICCV_2019/papers/Datta_Align2Ground_Weakly_Supervised_Phrase_Grounding_Guided_by_Image-Caption_Alignment_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **GCN-LSTM+HIP**:Ting Yao, Yingwei Pan, Yehao Li, Tao Mei   
+- **GCN-LSTM+HIP**: Ting Yao, Yingwei Pan, Yehao Li, Tao Mei   
 "[Hierarchy Parsing for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yao_Hierarchy_Parsing_for_Image_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **IR+Tdiv**:Lixin Liu, Jiajun Tang, Xiaojun Wan, Zongming Guo    
+- **IR+Tdiv**: Lixin Liu, Jiajun Tang, Xiaojun Wan, Zongming Guo    
 "[Generating Diverse and Descriptive Image Captions Using Visual Paraphrases](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Generating_Diverse_and_Descriptive_Image_Captions_Using_Visual_Paraphrases_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **CNM+SGAE**:Xu Yang, Hanwang Zhang, Jianfei Cai    
-"[Generating Diverse and Descriptive Image Captions Using Visual Paraphrases](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Learning_to_Collocate_Neural_Modules_for_Image_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
+- **CNM+SGAE**: Xu Yang, Hanwang Zhang, Jianfei Cai    
+"[Learning to Collocate Neural Modules for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Learning_to_Collocate_Neural_Modules_for_Image_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **Seq-CVAE**:Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing    
+- **Seq-CVAE**: Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing    
 "[Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Aneja_Sequential_Latent_Spaces_for_Modeling_the_Intention_During_Diverse_Image_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **DUDA**:Dong Huk Park, Trevor Darrell, Anna Rohrbach   
+- **DUDA**: Dong Huk Park, Trevor Darrell, Anna Rohrbach   
 "[Robust Change Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Robust_Change_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **AoANet**:Lun Huang, Wenmin Wang, Jie Chen, Xiao-Yong Wei   
+- **AoANet**: Lun Huang, Wenmin Wang, Jie Chen, Xiao-Yong Wei   
 "[Attention on Attention for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- :Iro Laina, Christian Rupprecht, Nassir Navab   
+- : Iro Laina, Christian Rupprecht, Nassir Navab   
 "[Towards Unsupervised Image Captioning With Shared Multimodal Embeddings](http://openaccess.thecvf.com/content_ICCV_2019/papers/Laina_Towards_Unsupervised_Image_Captioning_With_Shared_Multimodal_Embeddings_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- :Sen He, Hamed R. Tavakoli, Ali Borji, Nicolas Pugeault   
+- : Sen He, Hamed R. Tavakoli, Ali Borji, Nicolas Pugeault   
 "[Human Attention in Image Captioning: Dataset and Analysis](http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Human_Attention_in_Image_Captioning_Dataset_and_Analysis_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **RDN **:Lei Ke, Wenjie Pei, Ruiyu Li, Xiaoyong Shen, Yu-Wing Tai   
+- **RDN**: Lei Ke, Wenjie Pei, Ruiyu Li, Xiaoyong Shen, Yu-Wing Tai   
 "[Reflective Decoding Network for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ke_Reflective_Decoding_Network_for_Image_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **PSST**:Gilad Vered, Gal Oren, Yuval Atzmon, Gal Chechik   
+- **PSST**: Gilad Vered, Gal Oren, Yuval Atzmon, Gal Chechik   
 "[Joint Optimization for Cooperative Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Vered_Joint_Optimization_for_Cooperative_Image_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **MUTAN**:Tanzila Rahman, Bicheng Xu, Leonid Sigal   
+- **MUTAN**: Tanzila Rahman, Bicheng Xu, Leonid Sigal   
 "[Watch, Listen and Tell: Multi-Modal Weakly Supervised Dense Event Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rahman_Watch_Listen_and_Tell_Multi-Modal_Weakly_Supervised_Dense_Event_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **ETA**:Guang Li, Linchao Zhu, Ping Liu, Yi Yang   
+- **ETA**: Guang Li, Linchao Zhu, Ping Liu, Yi Yang   
 "[Entangled Transformer for Image Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Entangled_Transformer_for_Image_Captioning_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **nocaps **:Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson   
+- **nocaps**: Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson   
 "[nocaps: novel object captioning at scale](http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- :Keren Ye, Mingda Zhang, Adriana Kovashka, Wei Li, Danfeng Qin, Jesse Berent   
+- : Keren Ye, Mingda Zhang, Adriana Kovashka, Wei Li, Danfeng Qin, Jesse Berent   
 "[Cap2Det: Learning to Amplify Weak Caption Supervision for Object Detection](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Cap2Det_Learning_to_Amplify_Weak_Caption_Supervision_for_Object_Detection_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- **Graph-Align**:Jiuxiang Gu, Shafiq Joty, Jianfei Cai, Handong Zhao, Xu Yang, Gang Wang   
+- **Graph-Align**: Jiuxiang Gu, Shafiq Joty, Jianfei Cai, Handong Zhao, Xu Yang, Gang Wang   
 "[Unpaired Image Captioning via Scene Graph Alignments](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Unpaired_Image_Captioning_via_Scene_Graph_Alignments_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
-- :Tingke Shen, Amlan Kar, Sanja Fidler   
+- : Tingke Shen, Amlan Kar, Sanja Fidler   
 "[Learning to Caption Images Through a Lifetime by Asking Questions](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shen_Learning_to_Caption_Images_Through_a_Lifetime_by_Asking_Questions_ICCV_2019_paper.pdf)". `ICCV 2019`  
 
 ## CVPR-2019
@@ -184,73 +196,5 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 - 3468:Xiangyang Li (Institute of Computing Technology, Chinese Academy of Sciences); Shuqiang Jiang (ICT, China Academy of Science)*; Jungong Han (Lancaster University)  
 "Learning Object Context for Dense Captioning". `AAAI 2019` 
 
-
-
-
-
-<details>
-<summary>Personal summary</summary>
-  
-## Image Captioning
-
-### Model
-- Unsupervised Image Captioning.(**Yang Feng**, Tencent AI Lab, CVPR2019, [[paper]](https://arxiv.org/pdf/1811.10787.pdf), [[code.tf]](https://github.com/fengyang0317/unsupervised_captioning))
-- Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions.(*state-of-the-art*, **Cornia Marcella**, CVPR2019, [[paper]](https://arxiv.org/pdf/1811.10652v2.pdf), [[code.pytorch]](https://github.com/aimagelab/show-control-and-tell))  
-- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.(visual sentinel + adaptive attention, **Jiasen Lu**, CVPR2017)  
-- Recurrent Fusion Network for Image Captioning.(fusion muti-CNNs' feature as encoder, **Wenhao Jiang**, Tencent AI Lab, ECCV2018)
-- Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space.(**Liwei Wang**, NIPS2017, condition-VAE for caption, [[paper]](https://arxiv.org/pdf/1711.07068.pdf))  
-- Rethinking the Form of Latent States in Image Captioning. (ConvLSTM, **DaiBo**, ECCV2018)
-- Discriminability objective for training descriptive captions.(retrival+caption, **RuoTian Luo**, CVPR2018)
-- Exploring Visual Relationship for Image Captioning.(Detection + GCN, **Ting Yao**, ECCV2018)
-- Show, Tell and Discriminate: Image Captioning by Self-retrieval with Partially Labeled Data.(ECCV2018)
-- “Factual” or “emotional”: Stylized image captioning with adaptive learning and attention.(ECCV2018)
-- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering.(**Peter Anderson**, CVPR2018)
-- Neural Baby Talk.(*Pointer Network*, **Jiasen Lu**, CVPR2018)
-- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning.(**Jiasen Lu**, CVPR2017)
-- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.(ICML2015)
-
-### Training Strategy
-
-- Self-critical sequence training for image captioning.(CVPR2017)
-- Sequence-to-Sequence Learning as Beam-Search Optimization
-
-### Evaluation
-
-- Improving Image Captioning with Conditional Generative Adversarial Nets.(AAAI2019, [[paper]](https://arxiv.org/pdf/1805.07112.pdf))
-- NNEval : Neural Network based Evaluation Metric for Image Captioning.(ECCV2018)
-- Improved Image Captioning via Policy Gradient optimization of SPIDEr.(ICCV2017)
-
-## NLP
-
-- Attention is all you need([The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/), [Transformer on ImgCaption](https://github.com/ruotianluo/Transformer_Captioning/blob/master/train.py))
-- Latent Alignment and Variational Attention(VAE, [[paper]](https://arxiv.org/pdf/1807.03756.pdf))
-- Variational Neural Machine Translation(VAE for NMT, [[paper]](https://arxiv.org/pdf/1605.07869.pdf))
-- Variational Recurrent Neural Machine Translation(VAE for NMT, [[paper]](https://arxiv.org/pdf/1801.05119.pdf))
-
-## Video Captioning
-
-- Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning(AAAI2019 **oral**, [[paper]](http://home.ustc.edu.cn/~panywei/paper/AAAI19.2277.pdf))
-- Less Is More: Picking Informative Frames for Video Captioning(ECCV2018)
-- Modeling Embedding and Translation to Bridge Video and Language(CVPR2016)
-- Video Captioning via Hierarchical Reinforcement Learning(CVPR2018)
-- End-to-End Dense Video Captioning with Masked Transformer(CVPR2018)
-
-## Arxiv Update
-
-- Viewpoint Invariant Change Captioning
-- Not All Words are Equal : Video-specific Information Loss for Video Captioning(Jiarong Dong)
-- Hierarchical LSTMs with Adaptive Attention for Visual Captioning
-
-## New Idea
-
-- Pointer Network. 
-- VideoLSTM Convolves, Attends and Flows for Action Recognition. (ConvLSTM, [[paper]](http://export.arxiv.org/pdf/1607.01794))
-- Detecting and Recognizing Human-Object Interactions(**Ross Girshick**, **Piotr Dollar**, **Kaiming He**, [[paper]](https://arxiv.org/pdf/1704.07333.pdf))
-- CONNECTING IMAGES AND NATURAL LANGUAGE ADISSERTATION(**Andrej Karpathy**)
-- Sequence Level Training with Recurrent Neural Networks(ICML2015)
-- Deep Feature Flow for Video Recognition(CVPR2017, video object detection, [code.mxnet](https://github.com/msracver/Deep-Feature-Flow), [FlowNet2.pytorch](https://github.com/NVIDIA/flownet2-pytorch))
-- Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning(ACL2018, New dataset but not release)
-
-</details>
 
 
