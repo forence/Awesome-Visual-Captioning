@@ -8,6 +8,50 @@ A curated list of image captioning and video captioning and related area. :-)
 ***
 This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Learning &amp; NLP
 
+## Newly update! AAAI-2020
+**Image Captioning**
+- **Unified VLP**: Luowei Zhou (University of Michigan)*; Hamid Palangi (Microsoft Research); Lei Zhang (Microsoft); Houdong Hu
+(Microsoft AI and Research); Jason Corso (University of Michigan); Jianfeng Gao (Microsoft Research)  
+"[Unified Vision-Language Pre-Training for Image Captioning and VQA](https://arxiv.org/abs/1909.11059)". `AAAI 2020`  
+
+- **OffPG**: Paul Hongsuck Seo (POSTECH)*; Piyush Sharma (Google Research); Tomer Levinboim (Google); Bohyung Han
+(Seoul National University); Radu Soricut (Google)  
+"[Reinforcing an Image Caption Generator using Off-line Human Feedback](https://arxiv.org/abs/1911.09753)". `AAAI 2020`  
+
+- **MemCap**: Wentian Zhao (Beijing Institute of Technology); Xinxiao Wu (Beijing Institute of Technology)*; Xiaoxun Zhang
+(Alibaba Group)  
+"[MemCap: Memorizing Style Knowledge for Image Captioning](https://wuxinxiao.github.io/assets/papers/2020/MemCap.pdf)". `AAAI 2020`  
+
+- **C-R Reasoning**: Jingyi Hou (Beijing Institute of Technology); Xinxiao Wu (Beijing Institute of Technology)*; Xiaoxun Zhang (Alibaba
+Group); Yayun Qi (Beijing Institute of Technology); Yunde Jia (Beijing Institute of Technology); Jiebo Luo (University
+of Rochester)  
+"[Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf)". `AAAI 2020`  
+
+- **unknown**: Wei Zhang (East China Normal University)*; Yue Ying (East China Normal University); Pan Lu (The University of
+California, Los Angeles); Hongyuan Zha (GEORGIA TECH)  
+"Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network
+for Personalized Image Caption". `AAAI 2020`  
+
+- **unknown**: Li WANG (MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, China)*; Zechen BAI
+(Institute of Software, Chinese Academy of Science, China); Yonghua Zhang (Bytedance); Hongtao Lu (Shanghai Jiao
+Tong University)   
+"Show, Recall, and Tell: Image Captioning with Recall Mechanism". `AAAI 2020`  
+
+- **unknown**: Junhao Liu (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Kai Wang (Shenzhen
+Institutes of Advanced Technology, Chinese Academy of Sciences); Chunpu Xu (Huazhong University of Science and
+Technology); Zhou Zhao (Zhejiang University); Ruifeng Xu (Harbin Institute of Technology (Shenzhen)); Ying Shen
+(Peking University Shenzhen Graduate School); Min Yang ( Chinese Academy of Sciences)*    
+"Interactive Dual Generative Adversarial Networks for Image Captioning". `AAAI 2020`  
+
+- **unknown**: Tingjia Cao (Fudan University)*; Ke Han (Fudan University); Xiaomei Wang (Fudan University); Lin Ma (Tencent AI
+Lab); Yanwei Fu (Fudan University); Yu-Gang Jiang (Fudan University); Xiangyang Xue (Fudan University)     
+"Feature Deformation Meta-Networks in Image Captioning of Novel Objects". `AAAI 2020`  
+
+**Video Captioning** 
+- **unknown**: Maitreya Suin (Indian Institute of Technology Madras)*; Rajagopalan Ambasamudram (Indian Institute of
+Technology Madras)  
+"An Efficient Framework for Dense Video Captioning". `AAAI 2020`  
+
 ## Newly update! NeurIPS-2019
 **Image Captioning**
 - **AAT**: Lun Huang, Wenmin Wang, Yaxian Xia, Jie Chen  
@@ -168,16 +212,16 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 "[Improving Image Captioning with Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1805.07112.pdf)". `AAAI 2019 Oral`
 
 - 3934:Lingyun Song (Xi'an JiaoTong University)*; Jun Liu (Xi'an Jiaotong Univerisity); Buyue Qian (Xi'an Jiaotong University); Yihe Chen (University of Toronto)  
-"Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding". `AAAI 2019 Oral`
+"[Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding](https://www.aaai.org/ojs/index.php/AAAI/article/view/4916)". `AAAI 2019 Oral`
 
 - 4938:Nannan Li (Wuhan University); Zhenzhong Chen (WHU)*; Shan Liu (Tencent America)  
-"Meta Learning for Image Captioning". `AAAI 2019`
+"[Meta Learning for Image Captioning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4883)". `AAAI 2019`
 
 - 5390:Lianli Gao (The University of Electronic Science and Technology of China); kaixuan fan (University of Electronic Science and Technology of China); Jingkuan Song (UESTC); Xianglong Liu (Beihang University); Xing Xu (University of Electronic Science and Technology of China); Heng Tao Shen (University of Electronic Science and Technology of China (UESTC))*  
 "[Deliberate Residual based Attention Network for Image Captioning](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoLianli3.5390.pdf)". `AAAI 2019`
 
-- 1410:Weixuan Wang (School of Electronic and Information Engineering, Sun Yat-sen University); Zhihong Chen (School of Electronic and Information Engineering, Sun Yat-sen University); Haifeng Hu (School of Electronic and Information Engineering, Sun Yat-sen University)* 
-"Hierarchical Attention Network for Image Captioning". `AAAI 2019`
+- 1410:Weixuan Wang (School of Electronic and Information Engineering, Sun Yat-sen University); Zhihong Chen (School of Electronic and Information Engineering, Sun Yat-sen University); Haifeng Hu (School of Electronic and Information Engineering, Sun Yat-sen University)*   
+"[Hierarchical Attention Network for Image Captioning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4924)". `AAAI 2019`
 
 
 **Video Captioning**  
@@ -187,14 +231,14 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 - 2277:Jingwen Chen (Sun Yat-set University); Yingwei Pan (JD AI Research)*; Yehao Li (Sun Yat-Sen University); Ting Yao (JD AI Research); Hongyang Chao (Sun Yat-sen University); Tao Mei (AI Research of JD.com)  
 "[Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning](home.ustc.edu.cn/~panywei/paper/AAAI19.2277.pdf)". `AAAI 2019 Oral`
 
-- 2389:Kuncheng Fang (Fudan University)*; Lian Zhou (Fudan University); Cheng Jin (Fudan University); Yuejie Zhang (Fudan University); Kangnian Weng (Shanghai University of Finance and Economics); Tao Zhang (Shanghai University of Finance and Economics); Weiguo Fan (University of Iowa) 
-"Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention". `AAAI 2019`
+- 2389:Kuncheng Fang (Fudan University)*; Lian Zhou (Fudan University); Cheng Jin (Fudan University); Yuejie Zhang (Fudan University); Kangnian Weng (Shanghai University of Finance and Economics); Tao Zhang (Shanghai University of Finance and Economics); Weiguo Fan (University of Iowa)   
+"[Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention](https://aaai.org/ojs/index.php/AAAI/article/view/4839)". `AAAI 2019`
 
 - 2732:Shaoxiang Chen (Fudan University)*; Yu-Gang Jiang (Fudan University)  
 "[Motion Guided Spatial Attention for Video Captioning](http://yugangjiang.info/publication/19AAAI-vidcaptioning.pdf)". `AAAI 2019`
 
 - 3468:Xiangyang Li (Institute of Computing Technology, Chinese Academy of Sciences); Shuqiang Jiang (ICT, China Academy of Science)*; Jungong Han (Lancaster University)  
-"Learning Object Context for Dense Captioning". `AAAI 2019` 
+"[Learning Object Context for Dense Captioning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4886)". `AAAI 2019` 
 
 
 
