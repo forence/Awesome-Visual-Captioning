@@ -14,7 +14,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 ## Table of Contents
 
 - [Paper Roadmap (Chronological Order):](#Paper Roadmap)
-  - [Newly update! AAAI-2020](#Newly update! AAAI-2020)
+  - [Newly update! AAAI-2020](#AAAI-2020)
   - [NeurIPS-2019](#NeurIPS-2019)
   - [ICCV-2019](#ICCV-2019)
   - [CVPR-2019](#CVPR-2019)
@@ -22,7 +22,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 
 ## Paper Roadmap
 
-### Newly update! AAAI-2020
+### AAAI-2020
 
 **Image Captioning**
 
