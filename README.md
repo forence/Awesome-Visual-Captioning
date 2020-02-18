@@ -15,6 +15,7 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 
 - [Paper Roadmap (Chronological Order):](#Paper Roadmap)
   - [Newly update! AAAI-2020](#AAAI-2020)
+  - [ACL-2019](#ACL-2019)
   - [NeurIPS-2019](#NeurIPS-2019)
   - [ICCV-2019](#ICCV-2019)
   - [CVPR-2019](#CVPR-2019)
@@ -54,6 +55,26 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
 
 - : An Efficient Framework for Dense Video Captioning  
   Maitreya Suin (Indian Institute of Technology Madras)*; Rajagopalan Ambasamudram (Indian Institute of Technology Madras)
+
+### ACL-2019
+
+- Informative Image Captioning with External Sources of Information  [[paper]](https://www.aclweb.org/anthology/P19-1650.pdf)  
+  *Sanqiang Zhao, Piyush Sharma, Tomer Levinboim and Radu Soricut*
+
+- Dense Procedure Captioning in Narrated Instructional Videos  [[paper]](https://www.aclweb.org/anthology/P19-1641.pdf)  
+  *Botian Shi, Lei Ji, Yaobo Liang, Nan Duan, Peng Chen, Zhendong Niu and Ming Zhou*
+
+- Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
+  *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
+
+- Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
+  *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
+
+- Generating Question Relevant Captions to Aid Visual Question Answering  [[paper]](https://www.aclweb.org/anthology/P19-1348.pdf)  
+  *Jialin Wu, Zeyuan Hu and Raymond Mooney*
+
+- Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
+  *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
 
 ### NeurIPS-2019
 
