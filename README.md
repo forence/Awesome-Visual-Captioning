@@ -11,12 +11,11 @@ A curated list of image captioning and video captioning and related area. :-)
 
 This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Learning &amp; NLP
 
-[TOC]
-
-
+## Table of Contents
 
 - [Paper Roadmap (Chronological Order):](#Paper Roadmap)
-  - [Newly update! AAAI-2020](#AAAI-2020)
+  - [release papers ACL-2020](#ACL-2020)
+  - [update links AAAI-2020](#AAAI-2020)
   - [ACL-2019](#ACL-2019)
   - [NeurIPS-2019](#NeurIPS-2019)
   - [ICCV-2019](#ICCV-2019)
