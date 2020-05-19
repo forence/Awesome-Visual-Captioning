@@ -11,7 +11,9 @@ A curated list of image captioning and video captioning and related area. :-)
 
 This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Learning &amp; NLP
 
-## Table of Contents
+[TOC]
+
+
 
 - [Paper Roadmap (Chronological Order):](#Paper Roadmap)
   - [Newly update! AAAI-2020](#AAAI-2020)
@@ -22,6 +24,25 @@ This repository focus on Image Captioning & Video Captioning &amp; Seq-to-Seq Le
   - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+
+### ACL-2020
+
+**Image Captioning**
+
+- Clue: Cross-modal Coherence Modeling for Caption Generation [[paper]](https://arxiv.org/abs/2005.00908)  
+
+  Malihe Alikhani, Piyush Sharma, Shengjie Li, Radu Soricut and Matthew Stone
+
+- Improving Image Captioning Evaluation by Considering Inter References Variance   
+  Yanzhi Yi, Hangyu Deng and Jinglu Hu
+
+- Improving Image Captioning with Better Use of Caption  
+  Zhan Shi, Xu Zhou, Xipeng Qiu and Xiaodan Zhu
+
+**Video Captioning** 
+
+- MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning [[paper]](https://arxiv.org/abs/2005.05402)  
+  Jie Lei, Liwei Wang, Yelong Shen, Dong Yu, Tamara Berg and Mohit Bansal
 
 ### AAAI-2020
 
