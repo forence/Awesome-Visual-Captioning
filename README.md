@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [release papers CVPR-2020](#CVPR-2020)
 - [release papers ACL-2020](#ACL-2020)
 - [update links AAAI-2020](#AAAI-2020)
 - [ACL-2019](#ACL-2019)
@@ -11,6 +12,39 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+
+### CVPR-2020
+
+**Image Captioning**
+
+- Context-Aware Group Captioning via Self-Attention and Contrastive Features [[paper]](https://arxiv.org/abs/2004.03708)  
+  Zhuowan Li, Quan Tran, Long Mai, Zhe Lin, Alan L. Yuille
+- More Grounded Image Captioning by Distilling Image-Text Matching Model [[paper]](https://arxiv.org/abs/2004.00390v1) [[code]](https://github.com/YuanEZhou/Grounded-Image-Captioning)  
+  Yuanen Zhou, Meng Wang, Daqing Liu, Zhenzhen Hu, Hanwang Zhang
+- Show, Edit and Tell: A Framework for Editing Image Captions [[paper]](https://arxiv.org/abs/2003.03107) [[code]](https://github.com/fawazsammani/show-edit-tell)  
+  Fawaz Sammani, Luke Melas-Kyriazi
+- Say As You Wish: Fine-Grained Control of Image Caption Generation With Abstract Scene Graphs [[paper]](https://arxiv.org/abs/2003.00387) [[code]](https://github.com/cshizhe/asg2cap)  
+  Shizhe Chen, Qin Jin, Peng Wang, Qi Wu
+- Normalized and Geometry-Aware Self-Attention Network for Image Captioning [[paper]](https://arxiv.org/abs/2003.08897)  
+  Longteng Guo, Jing Liu, Xinxin Zhu, Peng Yao, Shichen Lu, Hanqing Lu
+- Meshed-Memory Transformer for Image Captioning [[paper]](https://arxiv.org/abs/1912.08226) [[code]](https://github.com/aimagelab/meshed-memory-transformer)  
+  Marcella Cornia, Matteo Stefanini, Lorenzo Baraldi, Rita Cucchiara
+- X-Linear Attention Networks for Image Captioning [[paper]](https://arxiv.org/abs/2003.14080) [[code]](https://github.com/JDAI-CV/image-captioning)  
+  Yingwei Pan, Ting Yao, Yehao Li, Tao Mei
+- Transform and Tell: Entity-Aware News Image Captioning [[paper]](https://arxiv.org/abs/2004.08070) [[code]](https://github.com/alasdairtran/transform-and-tell) [[website]](https://transform-and-tell.ml/)  
+  Alasdair Tran, Alexander Mathews, Lexing Xie
+
+**Video Captioning**
+
+- Object Relational Graph With Teacher-Recommended Learning for Video Captioning [[paper]](https://arxiv.org/abs/2002.11566)  
+  Ziqi Zhang, Yaya Shi, Chunfeng Yuan, Bing Li, Peijin Wang, Weiming Hu, Zheng-Jun Zha
+
+- Spatio-Temporal Graph for Video Captioning With Knowledge Distillation [[paper]](https://arxiv.org/abs/2003.13942?context=cs) [[code]](https://github.com/StanfordVL/STGraph)  
+  Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles
+- Better Captioning With Sequence-Level Exploration [[paper]](https://arxiv.org/abs/2003.03749)  
+  Jia Chen, Qin Jin
+- Syntax-Aware Action Targeting for Video Captioning [[code]](https://github.com/SydCaption/SAAT)   
+  Qi Zheng, Chaoyue Wang, Dacheng Tao
 
 ### ACL-2020
 
