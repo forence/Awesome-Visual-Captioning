@@ -2,9 +2,9 @@
 
 ## Table of Contents
 - [release papers ECCV-2020](#ECCV-2020)
-- (#CVPR-2020)
-- (#ACL-2020)
-- (#AAAI-2020)
+- [CVPR-2020](#CVPR-2020)
+- [ACL-2020](#ACL-2020)
+- [AAAI-2020](#AAAI-2020)
 - [ACL-2019](#ACL-2019)
 - [NeurIPS-2019](#NeurIPS-2019)
 - [ICCV-2019](#ICCV-2019)
