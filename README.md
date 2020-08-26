@@ -15,22 +15,22 @@
 ### ECCV-2020
 **Image Captioning**
 - Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets. `oral` [[paper]](https://arxiv.org/pdf/2007.06877.pdf)
-- In-Home Daily-Life Captioning Using Radio Signals. `oral`
+- In-Home Daily-Life Captioning Using Radio Signals. `oral` [[paper]](https://arxiv.org/pdf/2008.10966.pdf) [[website]](http://rf-diary.csail.mit.edu/)
 - TextCaps: a Dataset for Image Captioning with Reading Comprehension. `oral` [[paper]](https://arxiv.org/pdf/2003.12462.pdf) [[website]](https://textvqa.org/textcaps) [[code]](https://github.com/facebookresearch/mmf/tree/master/projects/m4c_captioner)
-- SODA: Story Oriented Dense Video Captioning Evaluation Framework. 
-- Towards Unique and Informative Captioning of Images. 
+- SODA: Story Oriented Dense Video Captioning Evaluation Framework. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510511.pdf)
+- Towards Unique and Informative Captioning of Images. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520613.pdf) 
 - Learning Visual Representations with Caption Annotations. [[paper]](https://arxiv.org/pdf/2008.01392.pdf) [[website]](https://europe.naverlabs.com/research/computer-vision-research-naver-labs-europe/icmlm/)
 - Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards. [[paper]](https://arxiv.org/pdf/2008.02693.pdf)
 - Length Controllable Image Captioning. [[paper]](https://arxiv.org/pdf/2007.09580.pdf) [[code]](https://github.com/bearcatt/LaBERT)
 -	Comprehensive Image Captioning via Scene Graph Decomposition. [[paper]](https://arxiv.org/pdf/2007.11731.pdf) [[website]](http://pages.cs.wisc.edu/~yiwuzhong/Sub-GC.html)
-- Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning. 
-- Captioning Images for a Real Use Case.
+- Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf)
+- Captioning Images Taken by People Who Are Blind. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620409.pdf)
 - Learning to Generate Grounded Visual Captions without Localization Supervision. [[paper]](https://arxiv.org/pdf/1906.00283.pdf) [[code]](https://github.com/chihyaoma/cyclical-visual-captioning)
 
 **Video Captioning**
 - Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos. `Spotlight` [[paper]](https://arxiv.org/pdf/2007.14164.pdf) [[code]](https://github.com/xuewyang/Fashion_Captioning)
-- Character Grounding and Re-Identification in Story of Videos and Text Descriptions. `Spotlight`
-- Identity-Aware Multi-Sentence Video Description
+- Character Grounding and Re-Identification in Story of Videos and Text Descriptions. `Spotlight` [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf) [[code]](https://github.com/yj-yu/CiSIN/)
+- Identity-Aware Multi-Sentence Video Description. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660358.pdf) 
 
 ### CVPR-2020
 
