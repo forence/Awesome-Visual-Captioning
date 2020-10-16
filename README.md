@@ -32,7 +32,9 @@
 - Relational Graph Learning for Grounded Video Description Generation  
 
 ### NeurIPS-2020
-
+- Prophet Attention: Predicting Attention with Future Attention for Improved Image Captioning.  
+- RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning.  
+- Diverse Image Captioning with Context-Object Split Latent Spaces.  
 
 ### ECCV-2020
 **Image Captioning**
