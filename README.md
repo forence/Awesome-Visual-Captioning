@@ -1,7 +1,9 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
-- [release papers ECCV-2020](#ECCV-2020)
+- [release papers ACMMM-2020](#ACMMM-2020)
+- [release papers NeurIPS-2020](#NeurIPS-2020)
+- [ECCV-2020](#ECCV-2020)
 - [CVPR-2020](#CVPR-2020)
 - [ACL-2020](#ACL-2020)
 - [AAAI-2020](#AAAI-2020)
@@ -12,6 +14,26 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### ACMMM-2020
+**Image Captioning**
+- Structural Semantic Adversarial Active Learning for Image Captioning. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413885)  
+- Iterative Back Modification for Faster Image Captioning.  
+- Bridging the Gap between Vision and Language Domains for Improved Image Captioning.  
+- Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning.  
+- Improving Intra- and Inter-Modality Visual Relation for Image Captioning.  
+- ICECAP: Information Concentrated Entity-aware Image Captioning.  
+- Attacking Image Captioning Towards Accuracy-Preserving Target Words Removal.  
+- Multimodal Attention with Image Text Spatial Relationship for OCR-Based Image Captioning.  
+
+**Video Captioning**
+- Controllable Video Captioning with an Exemplar Sentence. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413908)  
+- Poet: Product-oriented Video Captioner for E-commerce. `oral` [[paper]](https://arxiv.org/abs/2008.06880)  
+- Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning.  
+- Relational Graph Learning for Grounded Video Description Generation  
+
+### NeurIPS-2020
+
+
 ### ECCV-2020
 **Image Captioning**
 - Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets. `oral` [[paper]](https://arxiv.org/pdf/2007.06877.pdf)
