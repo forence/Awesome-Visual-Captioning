@@ -17,19 +17,19 @@
 ### ACMMM-2020
 **Image Captioning**
 - Structural Semantic Adversarial Active Learning for Image Captioning. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413885)  
-- Iterative Back Modification for Faster Image Captioning.  
-- Bridging the Gap between Vision and Language Domains for Improved Image Captioning.  
-- Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning.  
-- Improving Intra- and Inter-Modality Visual Relation for Image Captioning.  
-- ICECAP: Information Concentrated Entity-aware Image Captioning.  
-- Attacking Image Captioning Towards Accuracy-Preserving Target Words Removal.  
-- Multimodal Attention with Image Text Spatial Relationship for OCR-Based Image Captioning.  
+- Iterative Back Modification for Faster Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413901)  
+- Bridging the Gap between Vision and Language Domains for Improved Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414004)  
+- Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413859)  
+- Improving Intra- and Inter-Modality Visual Relation for Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413877)  
+- ICECAP: Information Concentrated Entity-aware Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413576)  
+- Attacking Image Captioning Towards Accuracy-Preserving Target Words Removal. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414009)  
+- Multimodal Attention with Image Text Spatial Relationship for OCR-Based Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413753)  
 
 **Video Captioning**
 - Controllable Video Captioning with an Exemplar Sentence. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413908)  
 - Poet: Product-oriented Video Captioner for E-commerce. `oral` [[paper]](https://arxiv.org/abs/2008.06880)  
-- Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning.  
-- Relational Graph Learning for Grounded Video Description Generation  
+- Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413498)  
+- Relational Graph Learning for Grounded Video Description Generation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413746)  
 
 ### NeurIPS-2020
 - Prophet Attention: Predicting Attention with Future Attention for Improved Image Captioning.  
