@@ -1,8 +1,9 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
-- [release papers ACMMM-2020](#ACMMM-2020)
-- [release papers NeurIPS-2020](#NeurIPS-2020)
+- [release papers AAAI-2021](#AAAI-2021)
+- [ACMMM-2020](#ACMMM-2020)
+- [NeurIPS-2020](#NeurIPS-2020)
 - [ECCV-2020](#ECCV-2020)
 - [CVPR-2020](#CVPR-2020)
 - [ACL-2020](#ACL-2020)
@@ -14,6 +15,23 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### AAAI-2021  
+**Image Captioning**   
+- Partially Non-Autoregressive Image Captioning  
+- Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network. [[paper]](https://arxiv.org/pdf/2012.07061.pdf)   
+- Object Relation Attention for Image Paragraph Captioning  
+- Dual-Level Collaborative Transformer for Image Captioning  
+- Memory-Augmented Image Captioning  
+- Image Captioning with Context-Aware Auxiliary Guidance. [[paper]](https://arxiv.org/pdf/2012.05545.pdf)  
+- Consensus Graph Representation Learning for Better Grounded Image Captioning  
+- FixMyPose: Pose Correctional Captioning and Retrieval  
+- VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning [[paper]](https://arxiv.org/pdf/2009.13682)  
+
+**Video Captioning**
+- Non-Autoregressive Coarse-to-Fine Video Captioning. [[paper]](https://arxiv.org/pdf/1911.12018.pdf)  
+- Semantic Grouping Network for Video Captioning  
+- Augmented Partial Mutual Learning with Frame Masking for Video Captioning  
+
 ### ACMMM-2020
 **Image Captioning**
 - Structural Semantic Adversarial Active Learning for Image Captioning. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413885)  
@@ -32,9 +50,9 @@
 - Relational Graph Learning for Grounded Video Description Generation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413746)  
 
 ### NeurIPS-2020
-- Prophet Attention: Predicting Attention with Future Attention for Improved Image Captioning.  
-- RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning.  
-- Diverse Image Captioning with Context-Object Split Latent Spaces.  
+- Prophet Attention: Predicting Attention with Future Attention for Improved Image Captioning. [[paper]](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf)   
+- RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/c2964caac096f26db222cb325aa267cb-Paper.pdf)  
+- Diverse Image Captioning with Context-Object Split Latent Spaces. [[paper]](https://papers.nips.cc/paper/2020/file/24bea84d52e6a1f8025e313c2ffff50a-Paper.pdf)  
 
 ### ECCV-2020
 **Image Captioning**
