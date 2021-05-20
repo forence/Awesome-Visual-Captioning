@@ -18,6 +18,7 @@
 ## Paper Roadmap
 ### CVPR-2021
 **Image Captioning**  
+- Connecting What to Say With Where to Look by Modeling Human Attention Traces. [[paper]](https://arxiv.org/pdf/2105.05964.pdf) [[code]](https://github.com/facebookresearch/connect-caption-and-trace)  
 - Multiple Instance Captioning: Learning Representations from Histopathology Textbooks and Articles. [[paper]](https://arxiv.org/pdf/2103.05121.pdf)  
 - Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship.   
 - Image Change Captioning by Learning From an Auxiliary Task.   
