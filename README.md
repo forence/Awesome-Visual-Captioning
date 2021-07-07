@@ -1,7 +1,8 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
-- [release papers CVPR-2021](#CVPR-2021)
+- [ACL-2021](#ACL-2021)
+- [CVPR-2021](#CVPR-2021)
 - [AAAI-2021](#AAAI-2021)
 - [ACMMM-2020](#ACMMM-2020)
 - [NeurIPS-2020](#NeurIPS-2020)
@@ -16,31 +17,44 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### ACL-2021
+**Image Captioning** 
+- Control Image Captioning Spatially and Temporally  
+- SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis [[paper]](https://arxiv.org/pdf/2106.01444.pdf) [[code]](https://github.com/JoshuaFeinglass/SMURF)  
+- Enhancing Descriptive Image Captioning with Natural Language Inference  
+- UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.14019.pdf)  
+- Semantic Relation-aware Difference Representation Learning for Change Captioning  
+
+**Video Captioning**
+- Hierarchical Context-aware Network for Dense Video Event Captioning  
+- Video Paragraph Captioning as a Text Summarization Task  
+- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning  
+
 ### CVPR-2021
 **Image Captioning**  
 - Connecting What to Say With Where to Look by Modeling Human Attention Traces. [[paper]](https://arxiv.org/pdf/2105.05964.pdf) [[code]](https://github.com/facebookresearch/connect-caption-and-trace)  
 - Multiple Instance Captioning: Learning Representations from Histopathology Textbooks and Articles. [[paper]](https://arxiv.org/pdf/2103.05121.pdf)  
-- Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship.   
-- Image Change Captioning by Learning From an Auxiliary Task.   
+- Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf)  
+- Image Change Captioning by Learning From an Auxiliary Task. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hosseinzadeh_Image_Change_Captioning_by_Learning_From_an_Auxiliary_Task_CVPR_2021_paper.pdf)  
 - Scan2Cap: Context-aware Dense Captioning in RGB-D Scans. [[paper]](https://arxiv.org/pdf/2012.02206.pdf) [[code]](https://github.com/daveredrum/Scan2Cap)  
-- Towards Bridging Event Captioner and Sentence Localizer for Weakly Supervised Dense Event Captioning.  
+- Towards Bridging Event Captioner and Sentence Localizer for Weakly Supervised Dense Event Captioning. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Towards_Bridging_Event_Captioner_and_Sentence_Localizer_for_Weakly_Supervised_CVPR_2021_paper.pdf) 
 - TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption. [[paper]](https://arxiv.org/pdf/2012.04638.pdf)  
 - Towards Accurate Text-Based Image Captioning With Content Diversity Exploration. [[paper]](https://arxiv.org/pdf/2105.03236.pdf)  
-- FAIEr: Fidelity and Adequacy Ensured Image Caption Evaluation.   
-- RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words.  
+- FAIEr: Fidelity and Adequacy Ensured Image Caption Evaluation. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_FAIEr_Fidelity_and_Adequacy_Ensured_Image_Caption_Evaluation_CVPR_2021_paper.pdf)   
+- RSTNet: Captioning With Adaptive Attention on Visual and Non-Visual Words. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RSTNet_Captioning_With_Adaptive_Attention_on_Visual_and_Non-Visual_Words_CVPR_2021_paper.pdf)  
 - Human-Like Controllable Image Captioning With Verb-Specific Semantic Roles. [[paper]](https://arxiv.org/pdf/2103.12204.pdf)  
 
 **Video Captioning**
 - Open-Book Video Captioning With Retrieve-Copy-Generate Network. [[paper]](https://arxiv.org/pdf/2103.05284.pdf)  
-- Towards Diverse Paragraph Captioning for Untrimmed Videos.   
+- Towards Diverse Paragraph Captioning for Untrimmed Videos. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Towards_Diverse_Paragraph_Captioning_for_Untrimmed_Videos_CVPR_2021_paper.pdf)  
 
 ### AAAI-2021  
 **Image Captioning**   
 - Partially Non-Autoregressive Image Captioning. [[code]](https://github.com/feizc/PNAIC/tree/master)  
 - Improving Image Captioning by Leveraging Intra- and Inter-layer Global Representation in Transformer Network. [[paper]](https://arxiv.org/pdf/2012.07061.pdf)   
-- Object Relation Attention for Image Paragraph Captioning  
+- Object Relation Attention for Image Paragraph Captioning [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16423)   
 - Dual-Level Collaborative Transformer for Image Captioning. [[paper]](https://arxiv.org/pdf/2101.06462.pdf) [[code]](https://github.com/luo3300612/image-captioning-DLCT)    
-- Memory-Augmented Image Captioning  
+- Memory-Augmented Image Captioning [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16220)  
 - Image Captioning with Context-Aware Auxiliary Guidance. [[paper]](https://arxiv.org/pdf/2012.05545.pdf)  
 - Consensus Graph Representation Learning for Better Grounded Image Captioning. [[paper]](https://www.aaai.org/AAAI21Papers/AAAI-3680.ZhangW.pdf)  
 - FixMyPose: Pose Correctional Captioning and Retrieval. [[paper]](https://arxiv.org/pdf/2104.01703.pdf) [[code]](https://github.com/hyounghk/FixMyPose)  [[website]](https://fixmypose-unc.github.io/)  
