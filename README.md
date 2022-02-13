@@ -1,8 +1,10 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
-- [ACL-2021](#ACL-2021)
-- [CVPR-2021](#CVPR-2021)
+- [NeurIPS-2021](#NeurIPS-2021)  
+- [ICCV-2021](#ICCV-2021)  
+- [ACL-2021](#ACL-2021)  
+- [CVPR-2021](#CVPR-2021)  
 - [AAAI-2021](#AAAI-2021)
 - [ACMMM-2020](#ACMMM-2020)
 - [NeurIPS-2020](#NeurIPS-2020)
@@ -17,18 +19,37 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
-### ACL-2021
+### NeurIPS-2021
+**Video Captioning**
+- Multi-modal Dependency Tree for Video Captioning [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)  
+
+
+### ICCV-2021
 **Image Captioning** 
-- Control Image Captioning Spatially and Temporally  
-- SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis [[paper]](https://arxiv.org/pdf/2106.01444.pdf) [[code]](https://github.com/JoshuaFeinglass/SMURF)  
-- Enhancing Descriptive Image Captioning with Natural Language Inference  
-- UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.14019.pdf)  
-- Semantic Relation-aware Difference Representation Learning for Change Captioning  
+- Partial Off-Policy Learning: Balance Accuracy and Diversity for Human-Oriented Image Captioning [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Partial_Off-Policy_Learning_Balance_Accuracy_and_Diversity_for_Human-Oriented_Image_ICCV_2021_paper.pdf)  
+- Viewpoint-Agnostic Change Captioning With Cycle Consistency [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Viewpoint-Agnostic_Change_Captioning_With_Cycle_Consistency_ICCV_2021_paper.pdf)  
+- Understanding and Evaluating Racial Biases in Image Captioning [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Understanding_and_Evaluating_Racial_Biases_in_Image_Captioning_ICCV_2021_paper.pdf)  
+- Auto-Parsing Network for Image Captioning and Visual Question Answering [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Auto-Parsing_Network_for_Image_Captioning_and_Visual_Question_Answering_ICCV_2021_paper.pdf)  
+- In Defense of Scene Graphs for Image Captioning [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_In_Defense_of_Scene_Graphs_for_Image_Captioning_ICCV_2021_paper.pdf)  
+- Describing and Localizing Multiple Changes With Transformers [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qiu_Describing_and_Localizing_Multiple_Changes_With_Transformers_ICCV_2021_paper.pdf)  
+- Explain Me the Painting: Multi-Topic Knowledgeable Art Description Generation [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Bai_Explain_Me_the_Painting_Multi-Topic_Knowledgeable_Art_Description_Generation_ICCV_2021_paper.pdf)  
 
 **Video Captioning**
-- Hierarchical Context-aware Network for Dense Video Event Captioning  
-- Video Paragraph Captioning as a Text Summarization Task  
-- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning  
+- Motion Guided Region Message Passing for Video Captioning [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Motion_Guided_Region_Message_Passing_for_Video_Captioning_ICCV_2021_paper.pdf)   
+- End-to-End Dense Video Captioning With Parallel Decoding [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_End-to-End_Dense_Video_Captioning_With_Parallel_Decoding_ICCV_2021_paper.pdf)  
+
+### ACL-2021
+**Image Captioning** 
+- Control Image Captioning Spatially and Temporally [[paper]](https://aclanthology.org/2021.acl-long.157.pdf)  
+- SMURF: SeMantic and linguistic UndeRstanding Fusion for Caption Evaluation via Typicality Analysis [[paper]](https://arxiv.org/pdf/2106.01444.pdf) [[code]](https://github.com/JoshuaFeinglass/SMURF)  
+- Enhancing Descriptive Image Captioning with Natural Language Inference [[paper]](https://aclanthology.org/2021.acl-short.36/)  
+- UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.14019.pdf)  
+- Semantic Relation-aware Difference Representation Learning for Change Captioning [[paper]](https://aclanthology.org/2021.findings-acl.6/)  
+
+**Video Captioning**
+- Hierarchical Context-aware Network for Dense Video Event Captioning [[paper]](https://aclanthology.org/2021.acl-long.156.pdf)  
+- Video Paragraph Captioning as a Text Summarization Task [[paper]](https://aclanthology.org/2021.acl-short.9.pdf)  
+- O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning [[paper]](https://aclanthology.org/2021.findings-acl.24.pdf)  
 
 ### CVPR-2021
 **Image Captioning**  
