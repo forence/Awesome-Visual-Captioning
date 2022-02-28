@@ -2,18 +2,21 @@
 
 ## Table of Contents
 - [NeurIPS-2021](#NeurIPS-2021)  
+- [ACMMM-2021](#ACMMM-2021)    
 - [ICCV-2021](#ICCV-2021)  
 - [ACL-2021](#ACL-2021)  
 - [CVPR-2021](#CVPR-2021)  
 - [AAAI-2021](#AAAI-2021)
 - [ACMMM-2020](#ACMMM-2020)
 - [NeurIPS-2020](#NeurIPS-2020)
+- [ACMMM-2020](#ACMMM-2020)   
 - [ECCV-2020](#ECCV-2020)
 - [CVPR-2020](#CVPR-2020)
 - [ACL-2020](#ACL-2020)
 - [AAAI-2020](#AAAI-2020)
 - [ACL-2019](#ACL-2019)
 - [NeurIPS-2019](#NeurIPS-2019)
+- [ACMMM-2019](#ACMMM-2019)   
 - [ICCV-2019](#ICCV-2019)
 - [CVPR-2019](#CVPR-2019)
 - [AAAI-2019](#AAAI-2019)
@@ -23,6 +26,24 @@
 **Video Captioning**
 - Multi-modal Dependency Tree for Video Captioning [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)  
 
+### ACMMM-2021
+**Image Captioning**
+- Distributed Attention for Grounded Image Captioning   
+- Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning  
+- Semi-Autoregressive Image Captioning   
+- Question-controlled Text-aware Image Captioning   
+- Triangle-Reward Reinforcement Learning: A Visual-Linguistic Semantic Alignment for Image Captioning   
+- Group-based Distinctive Image Captioning with Memory Attention   
+- Direction Relation Transformer for Image Captioning    
+- Scene Graph with 3D Information for Change Captioning   
+- Similar Scenes Arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning   
+
+**Video Captioning**
+- State-aware Video Procedural Captioning    
+- Discriminative Latent Semantic Graph for Video Captioning   
+- Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention   
+- Multi-Perspective Video Captioning.   
+- Hybrid Reasoning Network for Video-based Commonsense Captioning   
 
 ### ICCV-2021
 **Image Captioning** 
@@ -161,6 +182,22 @@
 - Syntax-Aware Action Targeting for Video Captioning [[code]](https://github.com/SydCaption/SAAT)   
   Qi Zheng, Chaoyue Wang, Dacheng Tao
 
+### ACMMM-2020
+**Image Captioning**
+- Structural Semantic Adversarial Active Learning for Image Captioning    
+- Iterative Back Modification for Faster Image Captioning    
+- Bridging the Gap between Vision and Language Domains for Improved Image Captioning    
+- Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning    
+- Improving Intra- and Inter-Modality Visual Relation for Image Captioning    
+- ICECAP: Information Concentrated Entity-aware Image Captioning   
+- Attacking Image Captioning Towards Accuracy-Preserving Target Words Removal    
+- Multimodal Attention with Image Text Spatial Relationship for OCR-Based Image Captioning   
+
+**Video Captioning**
+- Controllable Video Captioning with an Exemplar Sentence   
+- Poet: Product-oriented Video Captioner for E-commerce    
+- Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning    
+
 ### ACL-2020
 
 **Image Captioning**
@@ -210,6 +247,20 @@
 
 - An Efficient Framework for Dense Video Captioning  
   Maitreya Suin (Indian Institute of Technology Madras)*; Rajagopalan Ambasamudram (Indian Institute of Technology Madras)
+
+### ACMMM-2019
+**Image Captioning**
+- Aligning Linguistic Words and Visual Semantic Units for Image Captioning   
+- Unpaired Cross-lingual Image Caption Generation with Self-Supervised Rewards   
+- MUCH: Mutual Coupling Enhancement of Scene Recognition and Dense Captioning   
+- Generating Captions for Images of Ancient Artworks   
+
+**Video Captioning**
+- Hierarchical Global-Local Temporal Modeling for Video Captioning   
+- Attention-based Densely Connected LSTM for Video Captioning   
+- Critic-based Attention Network for Event-based Video Captioning   
+- Watch It Twice: Video Captioning with a Refocused Video Encoder   
+
 
 ### ACL-2019
 
