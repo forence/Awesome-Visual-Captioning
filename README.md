@@ -9,7 +9,6 @@
 - [AAAI-2021](#AAAI-2021)
 - [ACMMM-2020](#ACMMM-2020)
 - [NeurIPS-2020](#NeurIPS-2020)
-- [ACMMM-2020](#ACMMM-2020)   
 - [ECCV-2020](#ECCV-2020)
 - [CVPR-2020](#CVPR-2020)
 - [ACL-2020](#ACL-2020)
@@ -180,23 +179,7 @@
 - Better Captioning With Sequence-Level Exploration [[paper]](https://arxiv.org/abs/2003.03749)  
   Jia Chen, Qin Jin
 - Syntax-Aware Action Targeting for Video Captioning [[code]](https://github.com/SydCaption/SAAT)   
-  Qi Zheng, Chaoyue Wang, Dacheng Tao
-
-### ACMMM-2020
-**Image Captioning**
-- Structural Semantic Adversarial Active Learning for Image Captioning    
-- Iterative Back Modification for Faster Image Captioning    
-- Bridging the Gap between Vision and Language Domains for Improved Image Captioning    
-- Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning    
-- Improving Intra- and Inter-Modality Visual Relation for Image Captioning    
-- ICECAP: Information Concentrated Entity-aware Image Captioning   
-- Attacking Image Captioning Towards Accuracy-Preserving Target Words Removal    
-- Multimodal Attention with Image Text Spatial Relationship for OCR-Based Image Captioning   
-
-**Video Captioning**
-- Controllable Video Captioning with an Exemplar Sentence   
-- Poet: Product-oriented Video Captioner for E-commerce    
-- Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning    
+  Qi Zheng, Chaoyue Wang, Dacheng Tao   
 
 ### ACL-2020
 
