@@ -1,6 +1,7 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
+- [Journal-2022](#Journal-2022)
 - [NeurIPS-2021](#NeurIPS-2021)  
 - [ACMMM-2021](#ACMMM-2021)    
 - [ICCV-2021](#ICCV-2021)  
@@ -21,6 +22,9 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### Journal-2022
+- Adaptive Curriculum Learning for Video Captioning [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9737531)
+
 ### NeurIPS-2021
 **Video Captioning**
 - Multi-modal Dependency Tree for Video Captioning [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)  
