@@ -23,7 +23,7 @@
 ## Paper Roadmap
 ### NeurIPS-2021
 **Video Captioning**
-- Multi-modal Dependency Tree for Video Captioning [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)  
+- Multi-modal Dependency Tree for Video Captioning [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)
 
 ### ACMMM-2021
 **Image Captioning**
@@ -38,11 +38,11 @@
 - Similar Scenes Arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning   
 
 **Video Captioning**
-- State-aware Video Procedural Captioning    
-- Discriminative Latent Semantic Graph for Video Captioning   
-- Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention   
-- Multi-Perspective Video Captioning.   
-- Hybrid Reasoning Network for Video-based Commonsense Captioning   
+- State-aware Video Procedural Captioning [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475322)
+- Discriminative Latent Semantic Graph for Video Captioning [[paper]](https://arxiv.org/pdf/2108.03662v2.pdf) [[code]](https://github.com/baiyang4/d-lsg-video-caption)
+- Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention [[paper]](https://arxiv.org/pdf/2109.02955v1.pdf) [[code]](https://github.com/hitachi-rd-cv/mmac_captions)
+- Multi-Perspective Video Captioning [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475173)
+- Hybrid Reasoning Network for Video-based Commonsense Captioning [[paper]](https://arxiv.org/pdf/2108.02365v1.pdf) [[code]](https://github.com/yuweijiang/HybridNet)
 
 ### ICCV-2021
 **Image Captioning** 
