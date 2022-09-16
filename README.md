@@ -3,6 +3,7 @@
 ## Table of Contents
 - [CVPR-2022](#CVPR-2022)
 - [AAAI-2022](#AAAI-2022)
+- [IJCAI-2022](#IJCAI-2022)
 - [NeurIPS-2021](#NeurIPS-2021)  
 - [ACMMM-2021](#ACMMM-2021)    
 - [ICCV-2021](#ICCV-2021)  
@@ -52,6 +53,14 @@
 - MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning    
 - UNISON: Unpaired Cross-Lingual Image Captioning    
 - End-to-End Transformer Based Model for Image Captioning  
+
+### IJCAI-2022
+**Image Captioing**
+- ER-SAN: Enhanced-Adaptive Relation Self-Attention Network for Image Captioning    
+- S2 Transformer for Image Captioning    
+
+**Video Captioning**
+- GL-RG: Global-Local Representation Granularity for Video Captioning   
 
 
 ### NeurIPS-2021
