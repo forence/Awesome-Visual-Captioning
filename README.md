@@ -1,6 +1,8 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
+- [CVPR-2022](#CVPR-2022)
+- [AAAI-2022](#AAAI-2022)
 - [NeurIPS-2021](#NeurIPS-2021)  
 - [ACMMM-2021](#ACMMM-2021)    
 - [ICCV-2021](#ICCV-2021)  
@@ -21,13 +23,44 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### CVPR-2022
+**Image Captioing**
+- DeeCap: Dynamic Early Exiting for Efficient Image Captioning   
+- Injecting Visual Concepts into End-to-End Image Captioning   
+- DIFNet: Boosting Visual Information Flow for Image Captioning   
+- Beyond a Pre-Trained Object Detector: Cross-Modal Textual and Visual Context for Image Captioning   
+- Quantifying Societal Bias Amplification in Image Captioning    
+- Show, Deconfound and Tell: Image Captioning with Causal Inference    
+- Scaling Up Vision-Language Pretraining for Image Captioning   
+- VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning   
+- Comprehending and Ordering Semantics for Image Captioning    
+- Alleviating Emotional bias in Affective Image Captioning by Contrastive Data Collection    
+- NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge    
+- NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models   
+
+**Video Captioing**
+- End-to-end Generative Pretraining for Multimodal Video Captioning    
+- SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning    
+- Hierarchical Modular Network for Video Captioning   
+
+
+### AAAI-2022
+**Image Captioing**
+- Image Difference Captioning with Pre-Training and Contrastive Learning   
+- Attention-Aligned Transformer for Image Captioning   
+- Retrieve, Caption, Generate: Visual Grounding for Enhancing Commonsense in Text Generation Models    
+- MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning    
+- UNISON: Unpaired Cross-Lingual Image Captioning    
+- End-to-End Transformer Based Model for Image Captioning  
+
+
 ### NeurIPS-2021
 **Video Captioning**
 - Multi-modal Dependency Tree for Video Captioning [[paper]](https://openreview.net/pdf?id=sW40wkwfsZp)  
 
 ### ACMMM-2021
 **Image Captioning**
-- Distributed Attention for Grounded Image Captioning   
+- Distributed Attention for Grounded Image Captioning     
 - Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning  
 - Semi-Autoregressive Image Captioning   
 - Question-controlled Text-aware Image Captioning   
