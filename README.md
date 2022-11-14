@@ -1,6 +1,7 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
+- [ECCV-2022](#ECCV-2022)
 - [CVPR-2022](#CVPR-2022)
 - [AAAI-2022](#AAAI-2022)
 - [IJCAI-2022](#IJCAI-2022)
@@ -24,6 +25,17 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### ECCV-2022
+- ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-Verified Image-Caption Associations for MS-COCO  
+- Object-Centric Unsupervised Image Captioning  
+- D3Net: A Unified Speaker-Listener Architecture for 3D Dense Captioning and Visual Grounding  
+- StyleBabel: Artistic Style Tagging and Captioning  
+- MORE: Multi-Order RElation Mining for Dense Captioning in 3D Scenes     
+- GEB+: A Benchmark for Generic Event Boundary Captioning, Grounding and Retrieval  
+- Explicit Image Caption Editing  
+- GRIT: Faster and Better Image Captioning Transformer Using Dual Visual Features  
+- Unifying Event Detection and Captioning as Sequence Generation via Pre-training  
+
 ### CVPR-2022
 **Image Captioing**
 - DeeCap: Dynamic Early Exiting for Efficient Image Captioning   
