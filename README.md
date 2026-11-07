@@ -1,6 +1,7 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
+- [arXiv-2026](#arxiv-2026)
 - [ECCV-2022](#ECCV-2022)
 - [CVPR-2022](#CVPR-2022)
 - [AAAI-2022](#AAAI-2022)
@@ -25,6 +26,11 @@
 - [AAAI-2019](#AAAI-2019)
 
 ## Paper Roadmap
+### arXiv-2026
+**Video Captioning**
+- VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[paper]](https://arxiv.org/abs/2607.14935) [[code]](https://github.com/MCG-NJU/VideoChat3)
+- OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [[paper]](https://arxiv.org/abs/2610.01762) [[code]](https://github.com/MCG-NJU/OneStreamer)
+
 ### ECCV-2022
 - ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-Verified Image-Caption Associations for MS-COCO  
 - Object-Centric Unsupervised Image Captioning  
